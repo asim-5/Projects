@@ -1,0 +1,23 @@
+Honda Civic 16.50 lacs 2007 100,000km Automatic Grey 1800cc
+Suzuki Mehran 7.00 lacs 2012 100,000km Manual Grey 800cc
+Honda Civic 7.60 lacs 1995 999km Manual Black 1500cc
+Toyota Fortuner 70.00 lacs 2013 94,000km Automatic Black 2700cc
+Suzuki Mehran 8.00 lacs 2015 86,000km Manual Grey 796cc
+Toyota Corolla 25.50 lacs 2012 85,000km Automatic Silver 1600cc
+Suzuki MR 13.00 lacs 2011 97,000km Automatic Silver 660cc
+Honda BR-V 36.00 lacs 2018 56,000km Automatic Silver 1500cc
+Toyota Corolla 36.60 lacs 2018 28,000km Automatic Black 1600cc
+Toyota Raize 51.75 lacs 2020 14,500km Automatic White 1000cc
+Toyota Vitz 15.75 lacs 2006 125,000km Automatic White 1000cc
+Honda City 28.75 lacs 2018 43,000km Manual White 1300cc
+Toyota Corolla 36.20 lacs 2016 96,000km Automatic White 1800cc
+Alfa Romeo 15.50 lacs 2014 89,285km Automatic White 660cc
+Toyota Hilux 1.15 crore 2022 50km Automatic White 2800cc
+Toyota Corolla 10.80 lacs 1994 200,000km Manual Blue 2000cc
+Honda Civic 16.50 lacs 2008 114,000km Automatic White 1800cc
+Changan Karvaan 27.20 lacs 2022 2,100km Manual Silver 1000cc
+KIA Picanto 32.00 lacs 2022 10km Automatic White 1000cc
+Mitsubishi Pajero 42.00 lacs 2004 190,000km Automatic Black 3200cc
+civic honda 2900 2009 25000 automatic blue 250cccc
+civic honda 2 2009 2 automatic blue 250cccc
+civic honda 2 2009 250 automatic blue 250cccc
